@@ -3,7 +3,7 @@ Demo Material
 
 https://youtu.be/3DhYOJO5-2U
 
-
+Create Table
 ```sql
 CREATE TABLE Articoli (
  Id INT IDENTITY(1,1) PRIMARY KEY,
