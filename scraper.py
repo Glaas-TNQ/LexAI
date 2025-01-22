@@ -4,8 +4,8 @@ import pandas as pd
 import time
 import pyodbc
 
-# URL della homepage di Legalmente.it
-base_url = "https://www.legalmente.it/"
+# URL della homepage di **********
+base_url = "********"
 
 def fetch_page(url):
     """Scarica il contenuto HTML della pagina specificata."""
